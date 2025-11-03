@@ -21,19 +21,19 @@ I enjoy blending **creativity with clean code** to craft engaging, user-focused 
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java • JavaScript • PHP • Python • C++  
+Java • JavaScript • PHP • C++  
 
 **Frontend:**  
 React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Framer Motion  
 
 **Backend:**  
-Node.js • Express.js • Spring Boot  
+Node.js • 
 
 **Database:**  
-MySQL • MongoDB  
+MySQL • 
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code • Eclipse • XAMPP • Postman • NetBeans  
+Git • GitHub • VS Code • Eclipse • XAMPP • 
 
 ---
 
